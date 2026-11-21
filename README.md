@@ -1,6 +1,6 @@
 # ⚛️ React Journey – Learn, Build & Practice
 
-Welcome to my **React.js Learning Journey!**
+Welcome to my **React.js Learning Journey!** 🚀
 
 This repository documents my journey of learning React.js, starting from fundamental concepts and gradually moving towards advanced concepts and practical project development.
 
@@ -24,28 +24,46 @@ Instead of only learning theoretical concepts, I am implementing each concept th
 - useMemo
 - useCallback
 
-### 03. React Routing
-- React Router
-- Routes and Route
-- Navigation
-- Multiple Pages
+### 03. Fetching Data in React & API Integration
+- Introduction to APIs
+- Fetch API
+- Axios
+- Async/Await
+- Promises
+- .then() and .catch()
+- Handling API Responses
+- Loading State Management
+- Error Handling
+- Fetching Data using useEffect
 
-### 04. Redux State Management
-- Redux Fundamentals
+### 04. React Routing
+- Introduction to React Router
+- BrowserRouter
+- Routes and Route
+- Link and NavLink
+- useNavigate
+- Multiple Page Navigation
+
+### 05. Redux State Management
+- Introduction to Redux
 - Store
 - Actions and Reducers
+- State Management
 - Redux Toolkit
 - createSlice
-- useSelector and useDispatch
+- useSelector
+- useDispatch
+- Provider
 
-### 05. Final Project – TaskBuddy 🚀
+### 06. Final Project – TaskBuddy 🚀
 
 TaskBuddy is my final practical React project, where I bring together the concepts I have learned to build a task-management application.
 
-Features:
+**Features:**
 - Add new tasks
 - Update existing tasks
 - Delete tasks
+- Manage task priorities and categories
 - Track task progress
 - Store tasks using Local Storage
 
@@ -55,14 +73,19 @@ Features:
 - JavaScript (ES6+)
 - HTML5
 - CSS3
-- Redux Toolkit
+- Fetch API
+- Axios
+- React Hooks
 - React Router
+- Redux Toolkit
 - Vite
 - Git & GitHub
 
 ## 🎯 Repository Goal
 
-The main goal of this repository is to strengthen my React fundamentals, understand component-based architecture, practice state management and build real-world applications.
+The main goal of this repository is to strengthen my React fundamentals, understand component-based architecture, practice state management, learn API integration and build real-world applications.
+
+Each project represents a different React concept that I have learned and implemented through practical development.
 
 This repository represents my continuous learning, practice and growth as a Frontend Developer.
 
