@@ -30,26 +30,6 @@ export default store;
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 // import {createStore} from 'redux';
 
 // // Initial state
